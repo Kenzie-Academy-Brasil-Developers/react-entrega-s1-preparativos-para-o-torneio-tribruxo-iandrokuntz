@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+div{
+    margin: 20px;
+}
+.Gryffindor {
+    color: red;
+    width: 250px;
+  }
+  
+  .Hufflepuff {
+    
+    color: darkgoldenrod;
+    width: 250px;
+  }
+  .Ravenclaw {
+    width: 250px;
+    color: blue;
+  }
+  
+  .Slytherin {
+    width: 250px;
+    color: darkgreen;
+  }
+h4{
+    margin-bottom: 30px;
+}
+h1, h3{
+    margin-bottom: 30px;
+    color: white;
+}
+p{
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.witchersCard{
+    width: 220px;
+    height: 180px;
+    border: 5px solid;
+    border-radius: 30px;
+}
